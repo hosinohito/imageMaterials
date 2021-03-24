@@ -1,5 +1,7 @@
 # imageMaterials
 
+![sakura](https://github.com/hosinohito/imageMaterials/blob/main/sakura.svg "さくら")
+
 再配布可、改編自由、商業利用可、クレジット表記不要、改変なしでの販売不可
 
 You can:
