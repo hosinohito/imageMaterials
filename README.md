@@ -3,15 +3,15 @@
 再配布可、改編自由、商業利用可、クレジット表記不要、改変なしでの販売不可
 
 You can:
-redistribute
-change
-commercial use
+  - redistribute
+  - change
+  - use for commercial purposes
 
 You cannot:
-sell without change
+  - sell without change
 
 You dont have to:
-show credit notation
+  - show credit notation
 
 If you like it, please give me bits on twitch.
 https://www.twitch.tv/hoshinohito
